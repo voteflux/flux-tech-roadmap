@@ -14,6 +14,8 @@ To contribute the easiest way is through the GitHub interface. You can create an
 * The purpose of this repository is as stated above - please keep this in mind when participating
 * Use tags where possible to identify questions into some of the common categories
 * Meta conversation is allowed (e.g. discussion of these guidelines)
+* Quote the important bit of what you're replying to unless they're within a few posts above you
+* Mention people when you reply to them (using @username, e.g. @XertroV)
 
 ### Contribution Guidelines
 
@@ -22,6 +24,7 @@ See [Contributing.md](Contributing.md) (TODO)
 ## Other Flux Resources
 
 * [Main Flux website](https://voteflux.org)
+* [Constitutions and the like](https://github.com/voteflux/flux)
 
 ## Near Term Roadmap
 
