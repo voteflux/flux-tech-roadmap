@@ -16,6 +16,7 @@ To contribute the easiest way is through the GitHub interface. You can create an
 * Meta conversation is allowed (e.g. discussion of these guidelines)
 * Quote the important bit of what you're replying to unless they're within a few posts above you
 * Mention people when you reply to them (using @username, e.g. @XertroV)
+* Use Markdown for writing documents/comments - [guide - seems good](https://learn.getgrav.org/content/markdown), [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), 
 
 ### Contribution Guidelines
 
