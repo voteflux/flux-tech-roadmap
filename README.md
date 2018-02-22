@@ -43,3 +43,4 @@ See [Contributing.md](Contributing.md) (TODO)
 - [ ] - Lay out ideas for longer term blockchain solution + oracles
 - [ ] - Document current tech stack + setup - [#2](../../issues/2)
 - [ ] - Open source membership backend - [#3](../../issues/3)
+- [ ] - Rebuild membership interface (ideally using Elm)
