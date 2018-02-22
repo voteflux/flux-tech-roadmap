@@ -6,6 +6,8 @@ This respository is for:
 * A place for people to openly criticise and conribute to the Flux roadmap and its implementation
 * A place to discuss the direction, intention, and implementation of the roadmap
 
+ATM [Max](https://voteflux.org/about/who/) is maintaining this repo.
+
 ## Contribution and Guidelines
 
 To contribute the easiest way is through the GitHub interface. You can create and edit documents, comment on issues, etc. You should submit a **pull request** to have something added or changed. _(When you do this a copy of this repository will be made on your account with your changes. A **pull request** is a request to 'pull' your changes into the main repository.)_
