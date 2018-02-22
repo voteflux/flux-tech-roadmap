@@ -25,11 +25,11 @@ See [Contributing.md](Contributing.md) (TODO)
 
 ## Near Term Roadmap
 
-- [ ] - Figure out community discussion forums - #1
+- [ ] - Figure out community discussion forums - [#1](../../issues/1)
   * [some discussion on problems with discourse and possible solutions](https://gist.github.com/XertroV/d503a1e9db4bc1fd617c5ee20a619c4c)
   * tl;dr - [self hosted discourse](https://community.voteflux.org) is not working out so well, one idea is to use a thin layer over github issues (free, enduring, easy-ish)
 
-- [ ] - Add [Contributing.md](Contributing.md) - #4
+- [ ] - Add [Contributing.md](Contributing.md) - [#4](../../issues/4)
   * Sources of ideas: [Fallible Ideas](http://fallibleideas.com/discussion/guidelines) - not 100% applicable but good foundation, [ThoughtBot code of conduct](https://thoughtbot.com/open-source-code-of-conduct) - note: would prefer to just allow discussion of conduct w/o going to authority-based extremes; simple and non-authoritarian is good
 
 - [] - Build community into repository control
@@ -37,5 +37,5 @@ See [Contributing.md](Contributing.md) (TODO)
 - [] - Add and maintain [TechJournal.md](TechJournal.md)
 - [] - Lay out ideas for the website + membership backend
 - [] - Lay out ideas for longer term blockchain solution + oracles
-- [] - Document current tech stack + setup - #2
-- [] - Open source membership backend - #3
+- [] - Document current tech stack + setup - [#2](../../issues/2)
+- [] - Open source membership backend - [#3](../../issues/3)
