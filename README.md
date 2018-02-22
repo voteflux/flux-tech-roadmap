@@ -32,10 +32,10 @@ See [Contributing.md](Contributing.md) (TODO)
 - [ ] - Add [Contributing.md](Contributing.md) - [#4](../../issues/4)
   * Sources of ideas: [Fallible Ideas](http://fallibleideas.com/discussion/guidelines) - not 100% applicable but good foundation, [ThoughtBot code of conduct](https://thoughtbot.com/open-source-code-of-conduct) - note: would prefer to just allow discussion of conduct w/o going to authority-based extremes; simple and non-authoritarian is good
 
-- [] - Build community into repository control
-  - [] - Build a small team of 5 core maintainers. Progress: 1/5
-- [] - Add and maintain [TechJournal.md](TechJournal.md)
-- [] - Lay out ideas for the website + membership backend
-- [] - Lay out ideas for longer term blockchain solution + oracles
-- [] - Document current tech stack + setup - [#2](../../issues/2)
-- [] - Open source membership backend - [#3](../../issues/3)
+- [ ] - Build community into repository control
+  - [ ] - Build a small team of 5 core maintainers. Progress: 1/5
+- [ ] - Add and maintain [TechJournal.md](TechJournal.md)
+- [ ] - Lay out ideas for the website + membership backend
+- [ ] - Lay out ideas for longer term blockchain solution + oracles
+- [ ] - Document current tech stack + setup - [#2](../../issues/2)
+- [ ] - Open source membership backend - [#3](../../issues/3)
