@@ -3,7 +3,7 @@
 This respository is for:
 
 * Discussion of Flux tech docs and plans
-* A place for people to openly criticise and conribute to the Flux roadmap and its implementation
+* A place for people to openly criticise and contribute to the Flux roadmap and its implementation
 * A place to discuss the direction, intention, and implementation of the roadmap
 
 ATM [Max](https://voteflux.org/about/who/) is maintaining this repo.
