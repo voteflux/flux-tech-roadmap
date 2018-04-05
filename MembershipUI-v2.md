@@ -46,3 +46,4 @@ Note: I actually started on a membership v2 page in Elm (https://voteflux.org/me
 * Can implement backwards compatibility with existing DB while we implement V2
 * Fully document API (I have some docs for API v1 somewhere, but can't find it atm)
 * Open source from start
+* Fine grain permissions around everything - e.g. organisers for VIC can freely email VIC members, but not anyone else (currently not possible with MailChimp)
