@@ -8,6 +8,14 @@ This respository is for:
 
 ATM [Max](https://voteflux.org/about/who/) is maintaining this repo.
 
+## Tech Used
+
+Issue tracker for app/api stuff: https://github.com/voteflux/THE-APP/issues
+
+* python3.6+ for `flux-api` & `the-app/packages/api/sam`
+* vuejs for `the-app/packages/ui`
+* typescript for `the-app/packages/lib,api` (note: deprecating this I think, easier to focus on `flux-api`, ui stuff still good tho)
+
 ## Contribution and Guidelines
 
 To contribute the easiest way is through the GitHub interface. You can create and edit documents, comment on issues, etc. You should submit a **pull request** to have something added or changed. _(When you do this a copy of this repository will be made on your account with your changes. A **pull request** is a request to 'pull' your changes into the main repository.)_
